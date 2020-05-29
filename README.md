@@ -2,6 +2,8 @@ DSC540, Data Preparation - Term Project
 Bellevue University
 May 29, 2020
 
+This README file discusses the final milestone for the DSC540 Term Project titled DSC540_Term_Project_5th_Milestone_Ferrill.
+
 This project is about Merging and Storing Data in a Database from Multiple Sources then Visualizing that Data
 
 Using a SQLite database, three datasets will be imported and systematically prepared and loaded into a database.  
