@@ -30,5 +30,10 @@ Through analysis, a series of visualizations were generated leveraging Matplotli
   uses CSV, WEB, and API datasets
   
  
- Note - When running this notebook file, the kaggle.json file has to be placed in a folder titled .kaggle loaded at the 
+ Note: 
+ - When running this notebook file, the kaggle.json file has to be placed in a folder titled .kaggle loaded at the 
  working directory in order to be accessed from within the notebook.
+ 
+ - One file referenced, gun-violence-data_01-2013_03-2018.csv, is too large to be placed within this repository.  
+ This file is available from Kaggle: https://www.kaggle.com/jameslko/gun-violence-data 
+ 
