@@ -31,4 +31,4 @@ Through analysis, a series of visualizations were generated leveraging Matplotli
   
  
  Note - When running this notebook file, the kaggle.json file has to be placed in a folder titled .kaggle loaded at the 
- working directory in order to be read.
+ working directory in order to be accessed from within the notebook.
