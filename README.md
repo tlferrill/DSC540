@@ -2,7 +2,7 @@ DSC540, Data Preparation - Term Project
 Bellevue University
 May 29, 2020
 
-This project is about Merging Data and Storing in a Database then Visualizing that Data
+This project is about Merging and Storing Data in a Database from Multiple Sources then Visualizing that Data
 
 Using a SQLite database, three datasets will be imported and systematically prepared and loaded into a database.  
 While loaded individually, these database tables will be merged together to support analysis.     
