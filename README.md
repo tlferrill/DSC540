@@ -1,6 +1,6 @@
-DSC540, Data Preparation - Term Project
-Bellevue University
-May 29, 2020
+DSC540, Data Preparation - Term Project     
+Bellevue University     
+May 29, 2020     
 
 This README file discusses the final milestone for the DSC540 Term Project titled DSC540_Term_Project_5th_Milestone_Ferrill.
 
